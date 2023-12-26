@@ -118,5 +118,4 @@ Once both the above steps are done click on Save.
         `git push`
 
 2) #### Terminate Jenkins EC2 instance
-
-# Happy learning, everyone 😊 😊
+😊 😊
